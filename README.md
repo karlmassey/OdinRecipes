@@ -1,1 +1,3 @@
-My first project with The Odin Project, creating a website to practice my HTML skills.
+My first completed project following the guidelines set by The Odin Project - this involved creating a basic recipe website to practice my HTML skills.
+
+None of these recipes or photos belong to me - I wish I was that good at cooking, but unfortunately the only recipes I create are recipes for disaster...
