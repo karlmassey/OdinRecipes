@@ -1,3 +1,1 @@
-# CardSharp2
-# CardSharp2
-# GitRepos
+My first project with The Odin Project, creating a website to practice my HTML skills.
